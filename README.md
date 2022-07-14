@@ -14,11 +14,11 @@ Lab OOP subject at FPT University.
 ## 🌿 Preview images
 
 <br>
-<img src="./img/Homepage.png" width="400" height="217" />
+<img src="./Screenshot 2022-07-14 215806.png" width="400" height="217" />
 &nbsp;
-<img src="./img/Product.png" width="400" height="217" />
+<img src="./Screenshot 2022-07-14 220002.png" width="400" height="217" />
 &nbsp;
-<img src="./img/Cart.png" width="400" height="217" />
+<img src="./Screenshot 2022-07-14 220106.png" width="400" height="217" />
 &nbsp;
 <br>
 
